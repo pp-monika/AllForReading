@@ -1,0 +1,22 @@
+.bookTitle {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #FAEDCD;
+    margin-bottom: 0px;
+}
+
+.bookTitleInput {
+
+}
+
+.bookTitleInputBox::placeholder {
+    text-align: center;
+}
+
+.bookTitleInputBox::-moz-placeholder {
+    text-align: center;
+}
+
+.bookTitleInputBox::-webkit-input-placeholder {
+    text-align: center;
+}

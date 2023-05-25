@@ -1,0 +1,27 @@
+
+
+.mainBody {
+    background-color: #FEFAE0;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #FAEDCD;
+}
+
+
+#saveButton {
+    font-size: 20px;
+}
+
+.savePage {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #FAEDCD;
+}
+
+
+
+/* input {
+    background-color: #E9EDC9;
+} */
+
+

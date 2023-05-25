@@ -1,0 +1,26 @@
+.statSection {
+    /* background-color: #FEFAE0; */
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* border-style: solid;
+    border-width: 5px;
+    border-color: #FAEDCD; */
+}
+
+.statQuestion {
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.inputBox {
+    font-size: 20px;
+}
+
+#rating {
+    height: 35px;
+}
+
+/* .ratingSection {
+    display: inline-block;
+} */

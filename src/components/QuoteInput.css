@@ -1,0 +1,13 @@
+.quoteLine {
+    padding-bottom: 15px;
+    word-wrap: break-word;
+}
+
+.quoteButton {
+    height: 35px;
+    vertical-align: middle;
+}
+
+.quoteInput {
+    width: 100%;
+}
